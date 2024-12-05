@@ -9,3 +9,4 @@ xgboost==1.7.6
 lightgbm==3.3.5
 setuptools
 distutils
+pip==24.3.1
