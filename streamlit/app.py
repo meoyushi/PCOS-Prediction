@@ -4,7 +4,8 @@ import joblib
 
 # Load the trained model
 # Replace 'pcos_model.pkl' with your actual model file
-model = joblib.load("PCOS_LogisReg.ipynb")
+model = joblib.load("PCOS_LogisReg.pkl")
+
 
 st.title("PCOS Prediction App")
 st.markdown("### Enter patient details to predict the likelihood of PCOS:")
