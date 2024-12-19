@@ -9,3 +9,4 @@ xgboost==1.7.6
 lightgbm==3.3.5
 setuptools>=65.5.0  # A recent version compatible with Python 3.12
 pip==24.3.1
+distutils
